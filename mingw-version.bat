@@ -1,5 +1,9 @@
 @echo off
 
+::
+:: Display the current version of GCC.
+::
+
 :start
 
 set mingw_basedir=C:\MinGW
